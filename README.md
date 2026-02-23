@@ -4,4 +4,4 @@
 
 Changed from GitHub website 
 
-"This line also added from IntelliJ"
+"This is the IntelliJ version"
