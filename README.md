@@ -2,4 +2,6 @@
 
 "Changed in IntelliJ"
 
-Changed from GitHub website 
+"Changed from GitHub website"
+
+"Added this line again from the Github website"
